@@ -153,7 +153,7 @@ Laporan ini memberikan langkah-langkah untuk membuat master dan slave, konfigura
     ```
 
     Lalu buatlah code Bubble Sort Python. Simpan dengan menekan `CTRL + X`.
-   [bubble.py code](https://github.com/dikiriskiyanto/BubbleSort-Pemrosesan-Paralel-kel3/blob/main/bubble.py)
+   [bubble.py code]
 
 3. Jalankan code tersebut pada master:
 
@@ -164,4 +164,3 @@ Laporan ini memberikan langkah-langkah untuk membuat master dan slave, konfigura
    ![Output](https://github.com/FakhriNaufal25/Laporan-Bubble-Sort__Pemrosesan-Parallel/blob/main/output.png)
     Jika sudah keluar output seperti ini sudah berhasil, mengeluarkan output di semua master dan slave, outputnya menjadi 4 yaitu output dari master, slave1, slave2, slave3. Jadi yang kami urutkan disini berupa array: [5, 3, 4, 1, 2] diurutkan menjadi [1, 2, 3, 4, 5].
 
-   
