@@ -161,7 +161,7 @@ Laporan ini memberikan langkah-langkah untuk membuat master dan slave, konfigura
     mpirun -np 4 -host master,slave1,slave2,slave3 python3 bubble.py
     ```
 
-   ![Output](https://github.com/dikiriskiyanto/BubbleSort-Pemrosesan-Paralel/blob/main/output.png)
+   ![Output](https://github.com/FakhriNaufal25/Laporan-Bubble-Sort__Pemrosesan-Parallel/blob/main/output.png)
     Jika sudah keluar output seperti ini sudah berhasil, mengeluarkan output di semua master dan slave, outputnya menjadi 4 yaitu output dari master, slave1, slave2, slave3. Jadi yang kami urutkan disini berupa array: [5, 3, 4, 1, 2] diurutkan menjadi [1, 2, 3, 4, 5].
 
    
